@@ -1054,17 +1054,7 @@
 
 .glitch {
     position: relative;
-    font-family: 'Montserrat', Arial, sans-serif;
-    font-size: calc(20px + 5vw);
-    font-weight: 700;
-    color: #fff;
-    letter-spacing: 0.02em;
-    text-transform: uppercase;
-    text-shadow: 0 0 0.15em #1da9cc;
-    user-select: none;
-    white-space: nowrap;
-    filter: blur(0.007em);
-    animation: shake 2.5s linear forwards;
+    color: #000;
 }
 
 .glitch span {
